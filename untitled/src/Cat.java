@@ -6,7 +6,7 @@ public class Cat extends Animal {
 
     @Override
     public void sport() {
-        System.out.println("毛和老鼠捉迷藏");
+        System.out.println("猫和老鼠捉迷藏");
 
     }
 
